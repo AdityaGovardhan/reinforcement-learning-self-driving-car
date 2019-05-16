@@ -1,9 +1,3 @@
-Team 16:
-========
-Aditya Nagesh Govardhan
-Lekhavarshini Selvam
-Ronik Dhakar
-
 ## Installing
 
 These instructions are for a fresh Ubuntu 18.04 box. Most of the same should apply to OS X. If you have issues installing, feel free to contact at agovardh@asu.edu
